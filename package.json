@@ -1,0 +1,38 @@
+{
+  "name": "gulp-vue-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangb159/gulp-vue-mock.git"
+  },
+  "keywords": [
+    "gulp",
+    "mock"
+  ],
+  "author": "yangbing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangb159/gulp-vue-mock/issues"
+  },
+  "homepage": "https://github.com/yangb159/gulp-vue-mock#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-devserver2": "^0.6.9",
+    "gulp-html-tag-include": "^1.0.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-include": "^2.3.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-collector": "^1.1.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
